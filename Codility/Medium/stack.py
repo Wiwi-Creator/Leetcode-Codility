@@ -8,7 +8,16 @@ def trans_string(S):
     ans = ''.join(stack)
     return ans
 
-
+a
+sum = 0
+for i in len(a)
+    for i+1 in len(a):
+        if i != i+1 
+            sum + 1
+        elif is == 
+            sum = 0
+            
+(CBACsssD)
 print(trans_string('CBACD'))      # 輸出: 'C'
 print("------")
 print(trans_string('CABABD'))     # 輸出: ''
